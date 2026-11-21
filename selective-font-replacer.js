@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Selective Font Replacer
 // @namespace    local
-// @version      1.1.2
+// @version      1.1.3
 // @description  대상 폰트를 유니코드 기반 문자별 폰트 분할해서 교체
 // @author       bluedahlia83
 // @match        *://*/*
